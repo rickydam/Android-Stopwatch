@@ -5,4 +5,4 @@ Android app creation through Android Studio
 # Preview
 Android Virtual Device: Nexus 6P
 
-![alt tag] (https://github.com/Rickydam/android-timer/blob/master/timer.png)
+![alt tag] (https://github.com/Rickydam/android-timer/blob/master/v1.0.png)
