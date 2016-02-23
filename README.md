@@ -1,5 +1,6 @@
 # android-timer
 My first android app, replicating the default timer <br>
+Tutorial followed : http://examples.javacodegeeks.com/android/core/os/handler/android-timer-example/ <br>
 Android app creation through Android Studio
 
 # v1.1
