@@ -15,7 +15,7 @@ Android app creation through Android Studio
 * The buttons that are disabled now have greyed out text for better user interaction <br>
 
 Screenshot from LG G3 model LG-D852 running Lollipop 5.0.1 <br>
-<img src="https://github.com/Rickydam/android-timer/blob/master/v1.2.png" width="267" height="474" />
+<img src="https://github.com/Rickydam/android-timer/blob/master/v1.2.jpg" width="267" height="474" />
 
 
 # v1.1
