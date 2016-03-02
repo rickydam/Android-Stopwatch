@@ -1,4 +1,4 @@
-# android-stopwatch
+# Android-Stopwatch
 My first android app, replicating the default stopwatch that comes on any Android phone <br>
 I realized a timer might be too overwhelming for a first app. <br> <br>
 
